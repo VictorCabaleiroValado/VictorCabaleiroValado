@@ -1,6 +1,4 @@
-<img src="https://victorcabaleirovalado.github.io/victor-business.png" alt="Victor Cabaleiro Valado" width="180" align="right" />
 
-<div align="center">
 
 # Victor Cabaleiro Valado
 
