@@ -48,11 +48,11 @@ An academic project exploring fault detection and classification from vibration 
 **University of Arkansas** — M.S. in Statistics and Computational Analytics  
 2025–2027 · Expected graduation: May 2027
 
-**Universidad Carlos III de Madrid** — B.S. in Telecommunication Technologies Engineering  
-2019–2024
-
 **University of Arkansas** — Exchange year  
 2024–2025
+
+**Universidad Carlos III de Madrid** — B.S. in Telecommunication Technologies Engineering  
+2019–2024
 
 ---
 
