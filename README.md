@@ -5,7 +5,7 @@
 
 Engineering foundations. Statistical thinking. Practical analytics.
 
-[LinkedIn](https://www.linkedin.com/in/victor-cabaleiro-valado/) · [Featured project](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+[Portfolio](https://victorvalado.github.io) · [LinkedIn](https://www.linkedin.com/in/victor-cabaleiro-valado/) · [Featured project](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 </div>
 
