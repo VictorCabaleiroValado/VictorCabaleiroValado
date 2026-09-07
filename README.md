@@ -6,7 +6,7 @@
 
 Experience, featured project, technical toolkit and résumé.
 
-[LinkedIn](https://www.linkedin.com/in/victor-cabaleiro-valado/) · [Featured project](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Featured project](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 
 ---
@@ -58,4 +58,4 @@ An academic project exploring fault detection and classification from vibration 
 
 Based in **Fayetteville, Arkansas** · Spanish (native) · English (C1)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/victor-cabaleiro-valado/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/)
