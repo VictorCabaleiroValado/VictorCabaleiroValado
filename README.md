@@ -25,7 +25,7 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 - **Applied AI:** AI agents, semantic models, retrieval workflows and evaluation of response accuracy, relevance and reliability.
 - **Statistical computing:** exploratory analysis, predictive modeling and reproducible data workflows.
 
-## Featured project
+## Projects
 
 ### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
