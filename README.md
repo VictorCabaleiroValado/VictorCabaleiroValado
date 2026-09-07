@@ -1,4 +1,4 @@
-# Victor-Cabaleiro-Valado
+# Victor Cabaleiro Valado
 
 **Data Analyst GA & AI Innovation Analyst GA · University of Arkansas**
 
