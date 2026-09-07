@@ -1,13 +1,17 @@
-<img src="https://victorvalado.github.io/victor-business.png" alt="Victor Cabaleiro Valado" width="180" align="right" />
+<img src="https://victorcabaleirovalado.github.io/victor-business.png" alt="Victor Cabaleiro Valado" width="180" align="right" />
 
 <div align="center">
 
 # Victor Cabaleiro Valado
+
+## [Explore my professional portfolio ↗](https://victorcabaleirovalado.github.io/)
+
+**Experience · Rotary machine fault diagnosis · Technical toolkit · Education**
 ### Data Analytics · Applied AI · Statistical Modeling
 
 Engineering foundations. Statistical thinking. Practical analytics.
 
-[Portfolio](https://victorvalado.github.io) · [LinkedIn](https://www.linkedin.com/in/victor-cabaleiro-valado/) · [Featured project](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+[Portfolio](https://victorcabaleirovalado.github.io) · [LinkedIn](https://www.linkedin.com/in/victor-cabaleiro-valado/) · [Featured project](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 </div>
 
@@ -23,11 +27,11 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Featured project
 
-### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 An academic project exploring fault detection and classification from vibration measurements. The repository brings together time-domain statistics, FFT-based features and classical machine learning models, with an interactive Python workflow and a project report.
 
-**Explore:** [Project overview & setup](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines#readme) · [Interactive classifier](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/ML_Classifer_Code_with_Menu.py) · [Report](https://github.com/VictorValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/CAPSTONE%20PROJECT.pdf)
+**Explore:** [Project overview & setup](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines#readme) · [Interactive classifier](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/ML_Classifer_Code_with_Menu.py) · [Report](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/CAPSTONE%20PROJECT.pdf)
 
 ## Technical toolkit
 
@@ -60,8 +64,3 @@ Based in **Fayetteville, Arkansas** · Spanish (native) · English (C1)
 - **Data Analyst GA · University of Arkansas** — 2025–present · Arkansas · Part-time. Institutional data preparation, statistical analysis, reports and dashboards. Senior Graduate Assistant since 2026.
 - **Administrative Assistant · MSH Multiple Family Office** — 2022–2025 · Madrid, Spain · Part-time. Client records, documentation and administrative processes.
 
-## More project work
-
-**Predictive Modeling and Data Analysis · Madrid, 2023** — Built predictive models on 1,248 samples using Python, Pandas and NumPy, with standardization, hyperparameter tuning, R² and RMSE evaluation.
-
-[View my portfolio and download my résumé](https://victorvalado.github.io/)
