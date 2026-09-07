@@ -1,4 +1,4 @@
-# Victor Cabaleiro Valado
+# Victor-Cabaleiro-Valado
 
 **Data Analyst GA & AI Innovation Analyst GA · University of Arkansas**
 
@@ -6,7 +6,7 @@
 
 Experience, featured project, technical toolkit and résumé.
 
-[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Featured project](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Featured project](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 
 ---
@@ -27,11 +27,11 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Featured project
 
-### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 An academic project exploring fault detection and classification from vibration measurements. The repository brings together time-domain statistics, FFT-based features and classical machine learning models, with an interactive Python workflow and a project report.
 
-**Explore:** [Project overview & setup](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines#readme) · [Interactive classifier](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/ML_Classifer_Code_with_Menu.py) · [Report](https://github.com/VictorCabaleiroValado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/CAPSTONE%20PROJECT.pdf)
+**Explore:** [Project overview & setup](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines#readme) · [Interactive classifier](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/ML_Classifer_Code_with_Menu.py) · [Report](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/CAPSTONE%20PROJECT.pdf)
 
 ## Technical toolkit
 
