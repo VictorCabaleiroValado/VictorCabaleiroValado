@@ -4,7 +4,7 @@
 
 ### [Explore my professional portfolio ↗](https://victorcabaleirovalado.github.io/)
 
-Experience, featured project, technical toolkit and résumé.
+Experience, featured projects, technical toolkit and résumé.
 
 [LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Featured project](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
@@ -27,11 +27,21 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Projects
 
+### [Data Quality & Operations Intelligence](https://github.com/victorcabaleirovalado/Data-Quality-Operations-Intelligence)
+
+A personal SQL and Power BI case study using **541,909 real historical transaction records**. Six native report pages and 32 DAX measures connect data completeness, review rules, country comparisons and invoice investigation. Includes scenario buttons, area charts, contextual tooltips, documented historical USD conversion and 13 reconciliation tests. Review flags are not confirmed errors or lost revenue.
+
+[![Native Power BI overview](https://victorcabaleirovalado.github.io/data-quality/powerbi-overview.png)](https://victorcabaleirovalado.github.io/data-quality/powerbi.html)
+
+[Open Power BI report](https://victorcabaleirovalado.github.io/data-quality/powerbi.html) · [Explore the repository](https://github.com/victorcabaleirovalado/Data-Quality-Operations-Intelligence) · [Data and methodology notes](https://github.com/victorcabaleirovalado/Data-Quality-Operations-Intelligence/blob/main/docs/DATA_AND_METHODOLOGY.md)
+
 ### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 An academic project exploring fault detection and classification from vibration measurements. The repository brings together time-domain statistics, FFT-based features and classical machine learning models, with an interactive Python workflow and a project report.
 
-**Explore:** [Project overview & setup](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines#readme) · [Interactive classifier](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/ML_Classifer_Code_with_Menu.py) · [Report](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/CAPSTONE%20PROJECT.pdf)
+[![Real vibration signal](https://victorcabaleirovalado.github.io/vibration-signal-cover.svg)](https://victorcabaleirovalado.github.io/demo/)
+
+[Try the demo](https://victorcabaleirovalado.github.io/demo/) · [Explore the repository](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines) · [Data and methodology notes](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/docs/DATA_PROVENANCE.md)
 
 ## Technical toolkit
 
