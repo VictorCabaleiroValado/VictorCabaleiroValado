@@ -6,7 +6,7 @@
 
 Experience, featured projects, technical toolkit and résumé.
 
-[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Featured project](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/)
 
 
 ---
