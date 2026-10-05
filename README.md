@@ -27,6 +27,16 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Projects
 
+### [Azure Operations Data Platform](https://github.com/victorcabaleirovalado/azure-operations-data-platform)
+
+A personal cloud data engineering project running on **Azure**, built around a fictional electronics distributor with **four warehouses**. An event-driven Python workflow receives supplier snapshots through Container Apps, stores and queues them with Blob and Queue Storage, validates every file and preserves the latest valid inventory. SQL-backed views include warehouse filters, stock charts, snapshot comparisons and historical incidents with correction guidance.
+
+**Azure Monitor** supplies aggregate processing metrics through a scoped managed identity. Docker, Bicep, GitHub Actions and **32 Python tests** support the implementation, with live deployment checks documented in the repository. All business data and warehouse locations are synthetic; snapshot differences are not sales or deliveries, and inventory value is measured at supplier cost.
+
+[![Live Azure Operations overview with synthetic warehouse inventory](https://victorcabaleirovalado.github.io/azure-operations-overview.jpg)](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io/)
+
+[Open Azure application](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io/) · [Explore the repository](https://github.com/victorcabaleirovalado/azure-operations-data-platform) · [Data and methodology notes](https://github.com/victorcabaleirovalado/azure-operations-data-platform/blob/main/docs/METHODOLOGY.md)
+
 ### [Data Quality & Operations Intelligence](https://github.com/victorcabaleirovalado/Data-Quality-Operations-Intelligence)
 
 A personal SQL and Power BI case study using **541,909 real historical transaction records**. Six native report pages and 32 DAX measures connect data completeness, review rules, country comparisons and invoice investigation. Includes scenario buttons, area charts, contextual tooltips, documented historical USD conversion and 13 reconciliation tests. Review flags are not confirmed errors or lost revenue.
