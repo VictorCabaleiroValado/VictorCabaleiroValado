@@ -37,7 +37,9 @@ A personal SQL and Power BI case study using **541,909 real historical transacti
 
 ### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
-An academic project exploring fault detection and classification from vibration measurements. The repository brings together time-domain statistics, FFT-based features and classical machine learning models, with an interactive Python workflow and a project report.
+An academic project built around **975 original 25 RPM vibration measurements**, combining time-domain statistics, FFT features and classical machine learning. The repository includes an interactive browser demo with **39 real examples and 78 reproducible synthetic 50/75 RPM scenarios**, speed and condition selectors, readable CSV downloads and step-by-step decision-tree explanations.
+
+Each synthetic signal is linked to its 25 RPM source through filenames, hashes and generation parameters. The demo compares original and transformed predictions without mixing synthetic scenarios into model training or real-data evaluation. **42 Python tests** and checks of all **117 exported predictions** support the implementation. Synthetic scenarios do not replace missing higher-speed measurements or establish accuracy at 50/75 RPM.
 
 [![Real vibration signal](https://victorcabaleirovalado.github.io/vibration-signal-cover.svg)](https://victorcabaleirovalado.github.io/demo/)
 
