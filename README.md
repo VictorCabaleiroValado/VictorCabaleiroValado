@@ -33,7 +33,7 @@ A personal cloud data engineering project running on **Azure**, built around a f
 
 **Azure Monitor** supplies aggregate processing metrics through a scoped managed identity. Docker, Bicep, GitHub Actions and **32 Python tests** support the implementation, with live deployment checks documented in the repository. All business data and warehouse locations are synthetic; snapshot differences are not sales or deliveries, and inventory value is measured at supplier cost.
 
-[![Live Azure Operations overview with synthetic warehouse inventory](https://victorcabaleirovalado.github.io/azure-operations-overview.jpg)](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io/)
+[![Live Azure Operations overview with synthetic warehouse inventory](https://victorcabaleirovalado.github.io/azure-operations-overview.jpg?v=9169f727)](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io/)
 
 [Open Azure application](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io/) · [Explore the repository](https://github.com/victorcabaleirovalado/azure-operations-data-platform) · [Data and methodology notes](https://github.com/victorcabaleirovalado/azure-operations-data-platform/blob/main/docs/METHODOLOGY.md)
 
