@@ -27,6 +27,14 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Projects
 
+### [Global Trade & Supply Chain Analytics](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics)
+
+An end-to-end **BigQuery, SQL, Power Query, DAX and Power BI** project exploring electronics and telecommunications trade. Processes **1,107,277 annual bilateral product flows across 2012–2024**, with 227 trade entities and 16 HS6 products. An integrated world map and country ranking switch between trade value, annual growth and partner concentration, with connected filters, country drill-through, product mix and regional trends. HHI describes sourcing concentration, not disruption probability; annual trade data do not measure inventory or shipment delays.
+
+[![Trade value view](https://victorcabaleirovalado.github.io/global-trade/trade-value.png)](https://victorcabaleirovalado.github.io/global-trade/powerbi.html)
+
+[Open Power BI report](https://victorcabaleirovalado.github.io/global-trade/powerbi.html) (authentication and permission required) · [Explore the repository](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics) · [Data and methodology](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics#sources-and-interpretation)
+
 ### [Azure Operations Data Platform](https://github.com/victorcabaleirovalado/azure-operations-data-platform)
 
 A personal cloud data engineering project running on **Azure**, built around a fictional electronics distributor with **four warehouses**. An event-driven Python workflow receives supplier snapshots through Container Apps, stores and queues them with Blob and Queue Storage, validates every file and preserves the latest valid inventory. SQL-backed views include warehouse filters, stock charts, snapshot comparisons and historical incidents with correction guidance.
@@ -43,17 +51,9 @@ An academic project built around **2,925 original vibration recordings at 25, 50
 
 The browser demo presents **117 real held-out examples** and **three separate speed-specific decision trees**, with readable feature CSVs, source hashes and step-by-step decisions. Reproducible tests check extraction, provenance, train/test separation and all 117 exported predictions. Each speed has its own measured-data holdout evaluation; independent acquisition and machine generalization remain unproven. Earlier synthetic scenarios are archived and no longer appear in the active demo.
 
-[![Real vibration signal](https://victorcabaleirovalado.github.io/vibration-signal-cover.svg)](https://victorcabaleirovalado.github.io/demo/)
+[![Real vibration signal](https://victorcabaleirovalado.github.io/rotary-demo-vibration.png)](https://victorcabaleirovalado.github.io/demo/)
 
 [Try the demo](https://victorcabaleirovalado.github.io/demo/) · [Explore the repository](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines) · [Data and methodology notes](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/blob/main/docs/DATA_PROVENANCE.md)
-
-### [Power BI Data Quality & Operational Dashboard](https://github.com/victorcabaleirovalado/Power-BI-Data-Quality-Operational-Dashboard)
-
-A personal SQL and Power BI case study using **541,909 real historical transaction records**. Six native report pages and 32 DAX measures connect data completeness, review rules, country comparisons and invoice investigation. Includes scenario buttons, area charts, contextual tooltips, documented historical USD conversion and 13 reconciliation tests. Review flags are not confirmed errors or lost revenue.
-
-[![Native Power BI overview](https://victorcabaleirovalado.github.io/data-quality/powerbi-overview.png)](https://victorcabaleirovalado.github.io/data-quality/powerbi.html)
-
-[Open Power BI report](https://victorcabaleirovalado.github.io/data-quality/powerbi.html) · [Explore the repository](https://github.com/victorcabaleirovalado/Power-BI-Data-Quality-Operational-Dashboard) · [Data and methodology notes](https://github.com/victorcabaleirovalado/Power-BI-Data-Quality-Operational-Dashboard/blob/main/docs/DATA_AND_METHODOLOGY.md)
 
 ## Technical toolkit
 
