@@ -31,7 +31,7 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 An end-to-end **BigQuery, SQL, Power Query, DAX and Power BI** project exploring electronics and telecommunications trade. Processes **1,107,277 annual bilateral product flows across 2012–2024**, with 227 trade entities and 16 HS6 products. An integrated world map and country ranking switch between trade value, annual growth and partner concentration, with connected filters, country drill-through, product mix and regional trends. HHI describes sourcing concentration, not disruption probability; annual trade data do not measure inventory or shipment delays.
 
-[![Trade value view](https://victorcabaleirovalado.github.io/global-trade/trade-value.png)](https://victorcabaleirovalado.github.io/global-trade/powerbi.html)
+[![Trade value view](https://victorcabaleirovalado.github.io/global-trade/trade-value.png?v=e208754b)](https://victorcabaleirovalado.github.io/global-trade/powerbi.html)
 
 [Open Power BI report](https://victorcabaleirovalado.github.io/global-trade/powerbi.html)  · [Explore the repository](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics) · [Data and methodology](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics#sources-and-interpretation)
 
