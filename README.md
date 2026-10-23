@@ -27,7 +27,7 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Projects
 
-### [Global Electronics Trade & Supply Chain Analytics | BigQuery, Power BI & SQL](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics)
+### [Global Electronics Trade Analytics | BigQuery, Power BI & SQL](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics)
 
 An end-to-end **BigQuery, SQL, Power Query, DAX and Power BI** project exploring electronics and telecommunications trade. Processes **1,107,277 annual bilateral product flows across 2012–2024**, with 227 trade entities and 16 HS6 products. An integrated world map and country ranking switch between trade value, annual growth and partner concentration, with connected filters, country drill-through, product mix and regional trends. HHI describes sourcing concentration, not disruption probability; annual trade data do not measure inventory or shipment delays.
 
