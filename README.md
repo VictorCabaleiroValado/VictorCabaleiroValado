@@ -6,7 +6,7 @@
 
 Experience, featured projects, technical toolkit and résumé.
 
-[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/)
+[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Download résumé](https://victorcabaleirovalado.github.io/Victor_Cabaleiro_Resume.pdf?v=6cda7fc1)
 
 
 ---
