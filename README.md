@@ -27,7 +27,7 @@ I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkan
 
 ## Projects
 
-### [Power BI Global Trade Electronic Analytics](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics)
+### [Global Electronics Trade & Supply Chain Analytics | BigQuery, Power BI & SQL](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics)
 
 An end-to-end **BigQuery, SQL, Power Query, DAX and Power BI** project exploring electronics and telecommunications trade. Processes **1,107,277 annual bilateral product flows across 2012–2024**, with 227 trade entities and 16 HS6 products. An integrated world map and country ranking switch between trade value, annual growth and partner concentration, with connected filters, country drill-through, product mix and regional trends. HHI describes sourcing concentration, not disruption probability; annual trade data do not measure inventory or shipment delays.
 
@@ -35,7 +35,7 @@ An end-to-end **BigQuery, SQL, Power Query, DAX and Power BI** project exploring
 
 [Open Power BI report](https://victorcabaleirovalado.github.io/global-trade/powerbi.html)  · [Explore the repository](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics) · [Data and methodology](https://github.com/VictorCabaleiroValado/Global-Trade-Supply-Chain-Analytics#sources-and-interpretation)
 
-### [Azure Operations Data Platform](https://github.com/victorcabaleirovalado/azure-operations-data-platform)
+### [Azure Operations Cloud Data Platform | Cloud Data Engineering, Azure & Python](https://github.com/victorcabaleirovalado/azure-operations-data-platform)
 
 A personal cloud data engineering project running on **Azure**, built around a fictional electronics distributor with **four warehouses**. An event-driven Python workflow receives supplier snapshots through Container Apps, stores and queues them with Blob and Queue Storage, validates every file and preserves the latest valid inventory. SQL-backed views include warehouse filters, stock charts, snapshot comparisons and historical incidents with correction guidance.
 
@@ -45,7 +45,7 @@ A personal cloud data engineering project running on **Azure**, built around a f
 
 [Open Azure application](https://operations-web.icystone-6e204dad.westus2.azurecontainerapps.io/) · [Explore the repository](https://github.com/victorcabaleirovalado/azure-operations-data-platform) · [Data and methodology notes](https://github.com/victorcabaleirovalado/azure-operations-data-platform/blob/main/docs/METHODOLOGY.md)
 
-### [Machine Learning for Rotary Machine Fault Diagnosis](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
+### [Machine Learning for Rotating Machinery Fault Diagnosis | Python & ML](https://github.com/victorcabaleirovalado/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines)
 
 An academic project built around **2,925 original vibration recordings at 25, 50 and 75 RPM**, combining time-domain statistics, FFT features and classical machine learning. I recovered the original 50/75 RPM archives from [David Jensen's Figshare dataset](https://doi.org/10.6084/m9.figshare.22693120.v1) (CC BY 4.0), checked publisher hashes and rebuilt the features and explicit filename-derived labels.
 
