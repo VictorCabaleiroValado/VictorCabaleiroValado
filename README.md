@@ -1,21 +1,21 @@
 # Victor Cabaleiro Valado
 
-**Data Analyst GA & AI Innovation Analyst GA · University of Arkansas**
+**Data Analyst GA & Applied AI Engineer GA · University of Arkansas**
 
 ### [Explore my professional portfolio ↗](https://victorcabaleirovalado.github.io/)
 
 Experience, featured projects, technical toolkit and résumé.
 
-[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Download résumé](https://victorcabaleirovalado.github.io/Victor_Cabaleiro_Resume.pdf?v=a8060bc3)
+[LinkedIn](https://www.linkedin.com/in/victorcabaleirovalado/) · [Download résumé](https://victorcabaleirovalado.github.io/Victor_Cabaleiro_Resume.pdf?v=3b96e3c6)
 
 
 ---
 
-I am a **Data Analyst GA and AI Innovation Analyst GA at the University of Arkansas**, pursuing an **M.S. in Statistics and Computational Analytics**. My background in telecommunications engineering connects signal processing, machine learning and data analysis with practical decision-making.
+I am a **Data Analyst GA and Applied AI Engineer GA at the University of Arkansas**, pursuing an **M.S. in Statistics and Computational Analytics**. My background in telecommunications engineering connects signal processing, machine learning and data analysis with practical decision-making.
 
 ## Experience
 
-- **AI Innovation Analyst GA · University of Arkansas** — 2026–present · Arkansas · Part-time. AI agents, semantic models, retrieval workflows and evaluation with Microsoft Fabric.
+- **Applied AI Engineer GA · University of Arkansas** — 2026–present · Arkansas · Part-time. AI agents, semantic models, retrieval workflows and evaluation with Microsoft Fabric.
 - **Data Analyst GA · University of Arkansas** — 2025–present · Arkansas · Part-time. Institutional data preparation, statistical analysis, reports and dashboards. Senior Graduate Assistant since 2026.
 - **Administrative Assistant · MSH Multiple Family Office** — 2022–2025 · Madrid, Spain · Part-time. Client records, documentation and administrative processes.
 
