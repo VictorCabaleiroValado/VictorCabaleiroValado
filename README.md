@@ -15,7 +15,7 @@ I am a **Data Analyst GA and Applied AI Engineer GA at the University of Arkansa
 
 ## Experience
 
-- **Applied AI Engineer GA · University of Arkansas** — 2026–present · Arkansas · Part-time. AI agents, semantic models, retrieval workflows and evaluation with Microsoft Fabric.
+- **Applied AI Engineer Intern · University of Arkansas** — 2026–present · Arkansas · Part-time. AI agents, semantic models, retrieval workflows and evaluation with Microsoft Fabric.
 - **Data Analyst GA · University of Arkansas** — 2025–present · Arkansas · Part-time. Institutional data preparation, statistical analysis, reports and dashboards. Senior Graduate Assistant since 2026.
 - **Administrative Assistant · MSH Multiple Family Office** — 2022–2025 · Madrid, Spain · Part-time. Client records, documentation and administrative processes.
 
